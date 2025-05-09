@@ -39,7 +39,7 @@ function App() {
     <ProveedorTema>
       <h1>Use Context</h1>
       <h1>
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/Palasuwu/Usecontext" target="_blank" rel="noopener noreferrer">
           repo
         </a>
       </h1>
