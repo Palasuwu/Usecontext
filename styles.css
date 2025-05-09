@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 2rem;
+    transition: background-color 0.7s, color 0.7s;
+  }
+  
+  .light {
+    background-color: white ;
+    color: black;
+  }
+  /*  estos se encargan de invertir las letras */
+  .dark {
+    background-color: black;
+    color: white;
+  }
+  
+  .card {
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 8px;
+    box-shadow: 3px 0 10px rgb(102, 235, 255);
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    background-color: #646cff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  button:hover {
+    background-color: #5e65e9;
+    box-shadow: 3px 0 10px #ff64ed;
+  }
+  
+  
+
+  a {
+    color: #00b7ff;
+    display : inline-block;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
